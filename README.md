@@ -27,11 +27,17 @@ This project investigates the key factors driving healthcare insurance costs in 
 ## Project Structure
 
 Project_main/
+
 ├── data/ # Raw dataset (insurance.csv)
+
 ├── notebook/ # Jupyter notebook with full analysis
-│ └── healthcare_analysis.ipynb
-├── figures/ # All saved visualizations (PNG, 300 DPI) ├
-── venv/ # Python virtual environment
+
+ └── healthcare_analysis.ipynb
+
+├── figures/ # All saved visualizations (PNG, 300 DPI) 
+
+├── venv/ # Python virtual environment
+
 └── README.md
 
 ## Key Findings
